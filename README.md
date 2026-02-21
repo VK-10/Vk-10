@@ -39,11 +39,11 @@ Low-latency speech AI integrating Whisper and GPT reasoning for continuous inter
 
 ### Language Stats
 
-![Light's GitHub stats](https://github-readme-stats-fpe3y91n7-lights-projects-96102957.vercel.app/api?username=VK-10&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VK-10&show_icons=true)
 
-![Top Langs](https://github-readme-stats-fpe3y91n7-lights-projects-96102957.vercel.app/api/top-langs/?username=VK-10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VK-10&layout=compact)
+
 ---
-
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/vishwajeet-prasad-a65711178/)  
 [LeetCode](https://leetcode.com/u/light_70/)  
