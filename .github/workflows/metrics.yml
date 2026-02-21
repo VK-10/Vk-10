@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:      # allows manual run
+  
+permissions:
+  contents: read
+  actions: read
+  metadata: read
 
 jobs:
   metrics:
