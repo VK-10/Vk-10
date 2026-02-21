@@ -6,9 +6,7 @@ on:
   workflow_dispatch:      # allows manual run
   
 permissions:
-  contents: read
-  actions: read
-  metadata: read
+  contents: write
 
 jobs:
   metrics:
