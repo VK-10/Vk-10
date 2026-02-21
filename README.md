@@ -43,6 +43,8 @@ Low-latency speech AI integrating Whisper and GPT reasoning for continuous inter
 ![GitHub stars](https://img.shields.io/github/stars/VK-10?style=flat)
 ![GitHub repos](https://img.shields.io/badge/repos-public-blue)
 
+![GitHub Metrics](./github-metrics.svg)
+
 ---
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/vishwajeet-prasad-a65711178/)  
