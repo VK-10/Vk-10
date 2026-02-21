@@ -41,7 +41,7 @@ Low-latency speech AI integrating Whisper and GPT reasoning for continuous inter
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VK-10&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VK-10&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VK-10&layout=compact)
 
 ---
 ### Connect
