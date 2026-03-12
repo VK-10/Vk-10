@@ -2,7 +2,7 @@
 
 ### Software Engineer · Backend & AI Systems
 
-I build production-grade systems — from scalable APIs to AI-driven infrastructure.  
+I'd built production-grade systems — from scalable APIs to AI-driven infrastructure.  
 Focused on backend architecture, distributed systems, and clean design.
 
 ---
@@ -34,16 +34,7 @@ Low-latency speech AI integrating Whisper and GPT reasoning for continuous inter
 `Databases` MongoDB, MySQL, Firebase, Elasticsearch  
 `Infra` Docker, WebSocket, IMAP, AWS, GitHub Actions  
 `Languages` Java, C++, Python, JavaScript, TypeScript
-
----
-
-### Language Stats
-
-![GitHub followers](https://img.shields.io/github/followers/VK-10?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/VK-10?style=flat)
-![GitHub repos](https://img.shields.io/badge/repos-public-blue)
-
-![GitHub Metrics](./github-metrics.svg)
+ 
 
 ---
 ### Connect
